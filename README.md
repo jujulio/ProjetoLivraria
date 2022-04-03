@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido utilizando:
  
 ## :rocket: Baixando o projeto: 
 ```javascript
-https://github.com/jujulio/TCC-ETEC-Fernando-Prestes.git 
+https://github.com/jujulio/ProjetoLivraria.git
 ```
 ### :rocket: Configuração inicial
 1. Ter o visual studio instalado 2019 ou superior.

@@ -1,0 +1,368 @@
+c:\users\manutencao\documents\visual studio 2015\Projects\TccSeriao\TccSeriao\bin\Debug\TccSeriao.exe.config
+c:\users\manutencao\documents\visual studio 2015\Projects\TccSeriao\TccSeriao\bin\Debug\TccSeriao.exe
+c:\users\manutencao\documents\visual studio 2015\Projects\TccSeriao\TccSeriao\bin\Debug\TccSeriao.pdb
+c:\users\manutencao\documents\visual studio 2015\Projects\TccSeriao\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+c:\users\manutencao\documents\visual studio 2015\Projects\TccSeriao\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+c:\users\manutencao\documents\visual studio 2015\Projects\TccSeriao\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+c:\users\manutencao\documents\visual studio 2015\Projects\TccSeriao\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+c:\users\manutencao\documents\visual studio 2015\Projects\TccSeriao\TccSeriao\obj\Debug\TccSeriao.exe
+c:\users\manutencao\documents\visual studio 2015\Projects\TccSeriao\TccSeriao\obj\Debug\TccSeriao.pdb
+c:\users\manutencao\documents\visual studio 2015\Projects\TccSeriao\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\obj\Debug\TccSeriao.frmViewFornecedor.resources
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\obj\Debug\TccSeriao.frmViewProdutos.resources
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\Darkside\Desktop\TccSeriao\TccSeriao\obj\Debug\TccSeriao.frmViewVendas.resources
+C:\Users\Darkside\Downloads\TccSeriao\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\Darkside\Downloads\TccSeriao\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\Darkside\Downloads\TccSeriao\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.frmViewFornecedor.resources
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.frmViewProdutos.resources
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.frmViewVendas.resources
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.cache
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\HP PC\Downloads\Tcc\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmViewFornecedor.resources
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmViewProdutos.resources
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmViewVendas.resources
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.cache
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\HP PC\Downloads\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.pdb
+G:\tcc\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.exe.config
+G:\tcc\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.exe
+G:\tcc\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmViewProdutos.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmViewVendas.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\Darkside\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+D:\tcc\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.exe.config
+D:\tcc\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.exe
+D:\tcc\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.pdb
+D:\tcc\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.exe
+D:\tcc\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.pdb
+D:\tcc\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+D:\tcc\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+D:\tcc\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+D:\tcc\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+D:\tcc\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+D:\tcc\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+D:\tcc\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+D:\tcc\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+D:\tcc\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\keehw\Desktop\Tcc-correto\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\sidineia\Desktop\tcc\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+F:\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe.config
+F:\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.exe
+F:\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmSoftBeans.resources
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmRelatorioVenda.resources
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmRelatorioVenda.resources
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmSoftBeans.resources
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\keehw\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmConectar.resources
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual0.resources
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual1.resources
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual2.resources
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual3.resources
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual4.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmConectar.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual0.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual1.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual2.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual3.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual4.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmRelatorioVenda.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmSoftBeans.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\ManutencaoEtec\Desktop\Tcc-correto2\TccSeriao\bin\Debug\configuracao.cfg
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\bin\Debug\configuracao.cfg
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmConectar.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual0.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual1.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual2.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual3.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual4.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmRelatorioVenda.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmSoftBeans.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\ManutencaoEtec\Pictures\Saved Pictures\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+C:\Users\Darkside\Desktop\Tcc-correto2\TccSeriao\bin\Debug\configuracao.cfg
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\bin\Debug\configuracao.cfg
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmConectar.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual0.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual1.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual2.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual3.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual4.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmRelatorioVenda.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmSoftBeans.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.cache
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\HP PC\Documents\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\bin\Debug\configuracao.cfg
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmConectar.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual0.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual1.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual2.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual3.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual4.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmRelatorioVenda.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmSoftBeans.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\Darkside\Desktop\TCC - ABRIR\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmConectar.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual0.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual1.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual2.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual3.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual4.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmRelatorioVenda.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmSoftBeans.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\bin\Debug\configuracao.cfg
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\Manutencao\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.pdb
+D:\tcc\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe.config
+D:\tcc\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.exe
+D:\tcc\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csprojResolveAssemblyReference.cache
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmConectar.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual0.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual1.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual2.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual3.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmManual4.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmRelatorioVenda.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmSoftBeans.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.Cache
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\bin\Debug\configuracao.cfg
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\sidineia\Desktop\Tcc-correto2\TccSeriao\bin\Debug\TccSeriao.pdb
+G:\tcc\Tcc-Software\TccSeriao\bin\Debug\configuracao.cfg
+G:\tcc\Tcc-Software\TccSeriao\bin\Debug\TccSeriao.exe.config
+G:\tcc\Tcc-Software\TccSeriao\bin\Debug\TccSeriao.exe
+G:\tcc\Tcc-Software\TccSeriao\bin\Debug\TccSeriao.pdb
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.csprojAssemblyReference.cache
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmConectar.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmManual0.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmManual1.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmManual2.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmManual3.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmManual4.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmRelatorioVenda.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmSoftBeans.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.cache
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.csproj.CoreCompileInputs.cache
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.exe
+G:\tcc\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.pdb
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\bin\Debug\configuracao.cfg
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\bin\Debug\TccSeriao.exe.config
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\bin\Debug\TccSeriao.exe
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\bin\Debug\TccSeriao.pdb
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.csprojAssemblyReference.cache
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmBackup.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmConectar.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmLogin.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmManual0.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmManual1.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmManual2.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmManual3.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmManual4.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmPainel.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmRelatorioVenda.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmSoftBeans.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmVendas.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmFornecedoresCadastrar.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.frmProdutos.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.Properties.Resources.resources
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.csproj.GenerateResource.cache
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.exe
+C:\Users\Darkside\Desktop\TCC - ETEC SEBO LIVRARIA\TCC - ETEC SEBO LIVRARIA\Tcc-Software\TccSeriao\obj\Debug\TccSeriao.pdb

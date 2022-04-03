@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BED837F4-1242-4894-A2C5-3D99F5238B83}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TccSeriao</RootNamespace>
+    <AssemblyName>TccSeriao</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmConectar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConectar.Designer.cs">
+      <DependentUpon>frmConectar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManual0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManual0.Designer.cs">
+      <DependentUpon>frmManual0.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManual1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManual1.Designer.cs">
+      <DependentUpon>frmManual1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManual2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManual2.Designer.cs">
+      <DependentUpon>frmManual2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManual3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManual3.Designer.cs">
+      <DependentUpon>frmManual3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManual4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManual4.Designer.cs">
+      <DependentUpon>frmManual4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelatorioVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelatorioVenda.Designer.cs">
+      <DependentUpon>frmRelatorioVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSoftBeans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSoftBeans.Designer.cs">
+      <DependentUpon>frmSoftBeans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBackup.Designer.cs">
+      <DependentUpon>frmBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPainel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPainel.Designer.cs">
+      <DependentUpon>frmPainel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVendas.Designer.cs">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFornecedores.Designer.cs">
+      <DependentUpon>frmFornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProdutos.Designer.cs">
+      <DependentUpon>frmProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServerConnection.cs" />
+    <EmbeddedResource Include="frmBackup.resx">
+      <DependentUpon>frmBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConectar.resx">
+      <DependentUpon>frmConectar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManual0.resx">
+      <DependentUpon>frmManual0.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManual1.resx">
+      <DependentUpon>frmManual1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManual2.resx">
+      <DependentUpon>frmManual2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManual3.resx">
+      <DependentUpon>frmManual3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManual4.resx">
+      <DependentUpon>frmManual4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPainel.resx">
+      <DependentUpon>frmPainel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelatorioVenda.resx">
+      <DependentUpon>frmRelatorioVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSoftBeans.resx">
+      <DependentUpon>frmSoftBeans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVendas.resx">
+      <DependentUpon>frmVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFornecedores.resx">
+      <DependentUpon>frmFornecedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProdutos.resx">
+      <DependentUpon>frmProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="configuracao.cfg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\softbeans1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\novo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salvar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entrar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sair.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alterar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alterar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alterar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_add_insert_new_14983.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botao_comprar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1490129321-rounded10_82180.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\livros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alterar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sidebar_usuario-corporativo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Painel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\painel 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cadastrar Fornecedores1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cadastrar Produtos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Conectar Servidor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Conectar Servidor1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vendas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Formulario vendas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Formulario vendas1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
